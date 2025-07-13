@@ -1,0 +1,10 @@
+flask==2.3.2
+flask-cors==4.0.0
+flask-limiter==3.5.0
+flask-swagger-ui==4.11.1
+flasgger==0.9.7.1
+waitress==2.1.2
+gunicorn==21.2.0
+pyyaml==6.0.1
+argostranslate==1.8.0
+setuptools==67.8.0
